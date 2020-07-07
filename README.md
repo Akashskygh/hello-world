@@ -1,2 +1,5 @@
 # hello-world
-Displays "Hello World" to the user.
+
+Hello everyone!
+
+My name is Akash Ghosh.
